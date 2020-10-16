@@ -2,6 +2,10 @@
 MVC with CRUD
 
 
+SSMS
+
+
+
 
 DB Name: ADETQ2_Eclair_DB
 
