@@ -1,8 +1,7 @@
 # ADETQ2_Eclair
 MVC with CRUD
 
-
-SSMS
+SQL SSMS
 
 
 
