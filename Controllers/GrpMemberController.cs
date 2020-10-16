@@ -16,6 +16,7 @@ namespace ADETQ2_Eclair.Controllers
         {
             _db = db;
         }
+
         public IActionResult Index() 
         {
             var displaydata = _db.tblGrpMember.ToList();
